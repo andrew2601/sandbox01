@@ -1,0 +1,675 @@
+Date and Time : 09/16/22 09:32:48
+
+--------------------------------------------------
+Checking Schematic: 0636_tsmppt_plus
+--------------------------------------------------
+Checking Electrical Rules 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net ETH_RMII_REF_CLK 
+                    0636_tsmppt_plus, 0636_Processor  (4.00, 10.80) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net SD_DETECT 
+                    0636_tsmppt_plus, 0636_Processor  (14.20, 9.40) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net SD_CLK 
+                    0636_tsmppt_plus, 0636_Processor  (11.80, 1.80) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net SD_DAT0 
+                    0636_tsmppt_plus, 0636_Processor  (15.00, 6.00) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net SD_DAT3 
+                    0636_tsmppt_plus, 0636_Processor  (12.00, 1.80) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net SD_DAT1 
+                    0636_tsmppt_plus, 0636_Processor  (14.95, 5.80) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net SD_DAT2 
+                    0636_tsmppt_plus, 0636_Processor  (12.20, 1.80) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net SD_WP 
+                    0636_tsmppt_plus, 0636_Processor  (14.20, 9.20) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net ADC_ILC 
+                    0636_tsmppt_plus, 0636_Processor  (4.40, 9.60) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net LED_SOC_Y 
+                    0636_tsmppt_plus, 0636_Processor  (6.40, 1.90) 
+WARNING(ORCAP-1829): Possible pin type conflict BUF_VARRAY  Passive Port Connected to Input
+                    0636_tsmppt_plus, 0636_misc  (10.70, 1.10) 
+ERROR(ORCAP-1628): Possible pin type conflict BUF_VARRAY  Passive Port Connected to Output
+                    0636_tsmppt_plus, 0636_misc  (10.70, 1.10) 
+WARNING(ORCAP-1829): Possible pin type conflict BUF_VARRAY  Passive Port Connected to Passive Port
+                    0636_tsmppt_plus, 0636_misc  (10.70, 1.10) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net BUF_VARRAY 
+                    0636_tsmppt_plus, 0636_misc  (6.20, 3.80) 
+WARNING(ORCAP-1829): Possible pin type conflict BUF_VARRAY  Passive Port Connected to Input
+                    0636_tsmppt_plus, 0636_misc  (6.20, 3.80) 
+ERROR(ORCAP-1628): Possible pin type conflict BUF_VARRAY  Passive Port Connected to Output
+                    0636_tsmppt_plus, 0636_misc  (6.20, 3.80) 
+WARNING(ORCAP-1829): Possible pin type conflict BUF_VARRAY  Passive Port Connected to Passive Port
+                    0636_tsmppt_plus, 0636_misc  (6.20, 3.80) 
+ERROR(ORCAP-1628): Possible pin type conflict U19,OUT  Output Connected to Passive Port
+                    0636_tsmppt_plus, 0636_misc  (10.50, 1.10) 
+WARNING(ORCAP-1829): Possible pin type conflict U19,IN-  Input Connected to Passive Port
+                    0636_tsmppt_plus, 0636_misc  (9.50, 1.20) 
+WARNING(ORCAP-1829): Possible pin type conflict BUF_VBATT  Passive Port Connected to Input
+                    0636_tsmppt_plus, 0636_misc  (10.70, 2.50) 
+ERROR(ORCAP-1628): Possible pin type conflict BUF_VBATT  Passive Port Connected to Output
+                    0636_tsmppt_plus, 0636_misc  (10.70, 2.50) 
+WARNING(ORCAP-1829): Possible pin type conflict BUF_VBATT  Passive Port Connected to Passive Port
+                    0636_tsmppt_plus, 0636_misc  (10.70, 2.50) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net BUF_VBATT 
+                    0636_tsmppt_plus, 0636_misc  (6.20, 5.20) 
+WARNING(ORCAP-1829): Possible pin type conflict BUF_VBATT  Passive Port Connected to Input
+                    0636_tsmppt_plus, 0636_misc  (6.20, 5.20) 
+ERROR(ORCAP-1628): Possible pin type conflict BUF_VBATT  Passive Port Connected to Output
+                    0636_tsmppt_plus, 0636_misc  (6.20, 5.20) 
+WARNING(ORCAP-1829): Possible pin type conflict BUF_VBATT  Passive Port Connected to Passive Port
+                    0636_tsmppt_plus, 0636_misc  (6.20, 5.20) 
+ERROR(ORCAP-1628): Possible pin type conflict U98,OUT  Output Connected to Passive Port
+                    0636_tsmppt_plus, 0636_misc  (10.50, 2.50) 
+WARNING(ORCAP-1829): Possible pin type conflict U98,IN-  Input Connected to Passive Port
+                    0636_tsmppt_plus, 0636_misc  (9.50, 2.60) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net ARRAY 
+                    0636_tsmppt_plus, 0636_misc  (12.40, 3.90) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net ADC_ILB 
+                    0636_tsmppt_plus, 0636_Processor  (4.40, 9.00) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net LED_SOC_R 
+                    0636_tsmppt_plus, 0636_Processor  (6.20, 1.90) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net ADC_ILA 
+                    0636_tsmppt_plus, 0636_Processor  (4.40, 9.20) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net BATTERY 
+                    0636_tsmppt_plus, 0636_misc  (6.20, 2.40) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net ADC_ILA_SLOW 
+                    0636_tsmppt_plus, 0636_Processor  (4.00, 9.40) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net LED_SOC_G 
+                    0636_tsmppt_plus, 0636_Processor  (6.00, 1.90) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net WIRELESS_EN 
+                    0636_tsmppt_plus, 0636_Processor  (14.30, 7.60) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net WIRELESS_CSn 
+                    0636_tsmppt_plus, 0636_Processor  (14.30, 7.80) 
+ERROR(ORCAP-1620): Port has a type which is inconsistent with other ports on the net SEMAPHOREn 
+                    0636_tsmppt_plus, 0636_Processor  (9.00, 2.40) 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections nc1 
+                    0636_tsmppt_plus, 0636_RS485  (14.80, 10.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections nc2 
+                    0636_tsmppt_plus, 0636_RS485  (14.90, 10.10) 
+WARNING(ORCAP-1600): Net has fewer than two connections N12 
+                    0636_tsmppt_plus, 0636_misc  (13.80, 1.40) 
+
+Checking For Unconnected Bus Nets
+WARNING(ORCAP-1611): Two nets in same schematic have the same name, but there is no off-page connector ADC_IARRAY 
+                    0636_tsmppt_plus, 0636_Processor  (7.40, 12.10) 
+
+Reporting Off-Grid Objects
+    X4  -  0636_Processor (3.15, 5.20)
+    C244  -  0636_Processor (2.65, 5.50)
+    C62  -  0636_Power supply (4.95, 3.50)
+    R335  -  0636_Power supply (5.25, 3.90)
+    R337  -  0636_Power supply (2.95, 4.70)
+    R334  -  0636_Power supply (2.75, 3.80)
+    R333  -  0636_Power supply (6.15, 3.50)
+    R340  -  0636_Power supply (4.55, 4.90)
+    U9  -  0636_Power supply (3.75, 2.90)
+    C63  -  0636_Power supply (5.45, 3.50)
+    R60  -  0636_Power supply (8.65, 2.10)
+    R336  -  0636_Power supply (4.95, 4.20)
+    R339  -  0636_Power supply (4.25, 4.90)
+    L2  -  0636_Power supply (6.85, 2.30)
+    C67  -  0636_Power supply (4.65, 4.30)
+    D15  -  0636_Power supply (7.65, 2.90)
+    Q82  -  0636_Power supply (8.05, 2.40)
+    TP10  -  0636_CANbus (5.55, 4.00)
+    SD_DAT1  -  0636_Processor (14.95, 5.70)
+    GND  -  0636_Processor (2.65, 5.70)
+    N1646387  -  0636_Processor (2.75, 5.40)
+    N1646387  -  0636_Processor (2.85, 5.40)
+    N1646387  -  0636_Processor (2.75, 5.40)
+    N1646399  -  0636_Processor (3.85, 5.40)
+    SD_DAT1  -  0636_Processor (14.95, 5.80)
+    GND  -  0636_misc (7.50, 3.28)
+    GND  -  0636_misc (7.60, 3.28)
+    PS_VIN  -  0636_Power supply (7.25, 2.90)
+    PS_VCC  -  0636_Power supply (5.65, 3.10)
+    PS_VIN  -  0636_Power supply (4.35, 4.00)
+    GND  -  0636_Power supply (5.45, 3.80)
+    GND  -  0636_Power supply (0.40, 4.16)
+    P12  -  0636_Power supply (5.75, 3.90)
+    GND  -  0636_Power supply (2.75, 4.30)
+    GND  -  0636_Power supply (4.65, 4.60)
+    GND  -  0636_Power supply (4.95, 4.60)
+    GND  -  0636_Power supply (5.90, 2.27)
+    BATTERY  -  0636_Power supply (6.85, 1.50)
+    BATTERY  -  0636_Power supply (6.85, 2.20)
+    BATTERY  -  0636_Power supply (6.85, 1.50)
+    BATTERY  -  0636_Power supply (8.15, 2.00)
+    BATTERY  -  0636_Power supply (8.05, 2.00)
+    BATTERY  -  0636_Power supply (8.05, 2.10)
+    BATTERY  -  0636_Power supply (8.05, 2.00)
+    BATTERY  -  0636_Power supply (8.75, 2.00)
+    BATTERY  -  0636_Power supply (8.15, 2.00)
+    BATTERY  -  0636_Power supply (8.15, 2.10)
+    BATTERY  -  0636_Power supply (8.15, 2.00)
+    PS_VIN_BASE  -  0636_Power supply (8.75, 2.50)
+    PS_VIN_BASE  -  0636_Power supply (8.65, 2.50)
+    BATTERY  -  0636_Power supply (1.00, 2.41)
+    BATTERY  -  0636_Power supply (0.50, 2.41)
+    BATTERY  -  0636_Power supply (0.50, 2.41)
+    BATTERY  -  0636_Power supply (1.00, 2.41)
+    PS_FET_DRAIN  -  0636_Power supply (6.85, 3.50)
+    PS_FET_DRAIN  -  0636_Power supply (6.85, 2.80)
+    PS_VIN_C  -  0636_Power supply (8.15, 3.00)
+    PS_VIN_C  -  0636_Power supply (8.15, 2.90)
+    GND  -  0636_Power supply (3.45, 3.00)
+    PS_IC_GATE  -  0636_Power supply (6.25, 3.00)
+    PS_IC_GATE  -  0636_Power supply (4.65, 3.00)
+    PS_IC_GATE  -  0636_Power supply (6.25, 3.40)
+    PS_IC_GATE  -  0636_Power supply (6.25, 3.00)
+    PS_VIN_C  -  0636_Power supply (8.15, 3.00)
+    PS_VIN_C  -  0636_Power supply (8.05, 3.00)
+    PS_VCC  -  0636_Power supply (5.55, 3.20)
+    PS_VCC  -  0636_Power supply (4.65, 3.20)
+    PS_VCC  -  0636_Power supply (5.55, 3.40)
+    PS_VCC  -  0636_Power supply (5.55, 3.20)
+    PS_VCC  -  0636_Power supply (5.65, 3.20)
+    PS_VCC  -  0636_Power supply (5.55, 3.20)
+    PS_CS  -  0636_Power supply (3.45, 3.40)
+    N17359632  -  0636_Power supply (5.05, 3.40)
+    N17359632  -  0636_Power supply (4.65, 3.40)
+    PS_FET_DRAIN  -  0636_Power supply (7.65, 3.50)
+    PS_RT  -  0636_Power supply (3.45, 3.60)
+    PS_RT  -  0636_Power supply (2.85, 3.60)
+    PS_RT  -  0636_Power supply (2.85, 3.70)
+    PS_RT  -  0636_Power supply (2.85, 3.60)
+    PS_FB  -  0636_Power supply (4.85, 3.60)
+    PS_FB  -  0636_Power supply (4.65, 3.60)
+    PS_FB  -  0636_Power supply (4.85, 3.80)
+    PS_FB  -  0636_Power supply (4.85, 3.60)
+    PS_FB  -  0636_Power supply (5.05, 3.80)
+    PS_FB  -  0636_Power supply (4.85, 3.80)
+    PS_FB  -  0636_Power supply (5.05, 3.80)
+    PS_FB  -  0636_Power supply (5.05, 3.70)
+    GND  -  0636_Power supply (5.55, 3.80)
+    GND  -  0636_Power supply (5.55, 3.70)
+    GND  -  0636_Power supply (0.50, 4.16)
+    PS_VIN  -  0636_Power supply (4.75, 3.80)
+    PS_VIN  -  0636_Power supply (4.65, 3.80)
+    PS_VIN  -  0636_Power supply (4.75, 4.10)
+    PS_VIN  -  0636_Power supply (4.75, 3.80)
+    PS_FET_DRAIN  -  0636_Power supply (7.65, 3.50)
+    PS_FET_DRAIN  -  0636_Power supply (7.65, 3.90)
+    PS_FET_DRAIN  -  0636_Power supply (7.65, 3.50)
+    PS_FET_GATE  -  0636_Power supply (6.25, 4.30)
+    PS_FET_GATE  -  0636_Power supply (6.25, 3.90)
+    P12  -  0636_Power supply (5.75, 4.00)
+    P12  -  0636_Power supply (5.65, 4.00)
+    PS_VIN  -  0636_Power supply (4.75, 4.10)
+    PS_VIN  -  0636_Power supply (4.65, 4.10)
+    GND  -  0636_Power supply (2.85, 4.30)
+    GND  -  0636_Power supply (2.85, 4.20)
+    PS_FET_DRAIN  -  0636_Power supply (7.65, 3.90)
+    PS_FET_DRAIN  -  0636_Power supply (7.65, 4.30)
+    PS_FET_DRAIN  -  0636_Power supply (7.65, 3.90)
+    PS_FET_GATE  -  0636_Power supply (6.25, 4.30)
+    GND  -  0636_Power supply (4.75, 4.60)
+    GND  -  0636_Power supply (4.75, 4.50)
+    PS_FET_DRAIN  -  0636_Power supply (7.65, 4.30)
+    PS_FET_SOURCE  -  0636_Power supply (3.35, 4.80)
+    PS_FET_SOURCE  -  0636_Power supply (4.35, 4.80)
+    PS_FET_SOURCE  -  0636_Power supply (4.65, 4.80)
+    PS_FET_SOURCE  -  0636_Power supply (4.35, 4.80)
+    PS_FET_SOURCE  -  0636_Power supply (4.65, 4.80)
+    GND  -  0636_Power supply (4.65, 5.30)
+    GND  -  0636_Power supply (4.35, 5.30)
+    GND  -  0636_Power supply (4.65, 5.30)
+    PS_VIN  -  0636_Power supply (4.75, 4.20)
+    PS_VIN  -  0636_Power supply (4.75, 4.10)
+    PS_FB  -  0636_Power supply (5.05, 4.10)
+    PS_FB  -  0636_Power supply (5.05, 4.00)
+    PS_FB  -  0636_Power supply (5.15, 4.00)
+    PS_FB  -  0636_Power supply (5.05, 4.00)
+    PS_FB  -  0636_Power supply (5.05, 4.00)
+    PS_FB  -  0636_Power supply (5.05, 3.80)
+    GND  -  0636_Power supply (6.00, 2.27)
+    BATTERY  -  0636_Power supply (6.85, 1.50)
+    BATTERY  -  0636_Power supply (1.00, 2.41)
+    PS_CS  -  0636_Power supply (2.85, 4.80)
+    PS_FET_DRAIN  -  0636_Power supply (6.85, 3.50)
+    N16939086  -  0636_Power supply (3.45, 3.80)
+    N16939086  -  0636_Power supply (3.45, 3.80)
+    PS_UVLO  -  0636_Power supply (3.45, 3.20)
+    PS_VIN_BASE  -  0636_Power supply (8.75, 2.50)
+    BATTERY  -  0636_Power supply (8.75, 2.00)
+    CAN_1  -  0636_CANbus (13.35, 1.70)
+    CAN_7  -  0636_CANbus (13.35, 2.30)
+    CAN_8  -  0636_CANbus (13.35, 2.40)
+    P5_CAN  -  0636_CANbus (5.65, 4.20)
+    CAN_7  -  0636_CANbus (13.35, 3.10)
+    CAN_8  -  0636_CANbus (13.35, 3.20)
+    P5_CAN  -  0636_CANbus (5.65, 4.20)
+    CAN_3  -  0636_CANbus (13.35, 2.70)
+
+Reporting Ports
+    LED_SOC_G
+    LED_SOC_R
+    LED_SOC_Y
+    RS485+
+    RS485-
+    WIRELESS_CSn
+    SD_DETECT
+    ADC_THS
+    SD_P3ENn
+    SD_WP
+    SD_DAT0
+    SD_DAT1
+    SD_DAT2
+    SD_DAT3
+    ADC_IARRAY
+    WIRELESS_EN
+    PS_VCC
+    V_RTS
+    ADC_ILA_SLOW
+    PS_VIN
+    ETH_MCO
+    ETH_MDC
+    SPI_MISO
+    RX_CAN
+    TXEN_ISO
+    BUF_VBATT
+    SPI_SCK
+    ETH_RMII_RXD0
+    ETH_RMII_RXD1
+    DIP0
+    DIP1
+    DIP2
+    DIP3
+    DIP4
+    DIP5
+    DIP6
+    DIP7
+    PHY_RSTn
+    ADC_VBATT
+    PWM_AN
+    PWM_AP
+    PWM_BN
+    PWM_BP
+    PWM_CN
+    PWM_CP
+    TX_ISO
+    ADC_VARRAY
+    BUF_VARRAY
+    VBS
+    TX_SERIAL
+    ETH_RMII_TXD0
+    ETH_RMII_TXD1
+    ETH_RMII_TXEN
+    DAY
+    BATTERY
+    ETH_MDIO
+    ARRAY
+    ADC_ILC_SLOW
+    DIP_0
+    DIP_1
+    DIP_2
+    DIP_3
+    DIP_4
+    DIP_5
+    DIP_6
+    DIP_7
+    RX_SERIAL
+    SEMAPHOREn
+    TX_CAN
+    ETH_RMII_REF_CLK
+    SPI_MOSI
+    SD_CLK
+    TXEN_SERIAL
+    ADC_ILA
+    ADC_ILB
+    SD_CMD
+    ADC_ILC
+    ADC_RTS
+    PS_CAN_DISABLEn
+    ETH_RMII_CRS_DV
+    ADC_IA
+    ADC_ILB_SLOW
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    GND_EARTH
+    CASE
+    P5_CAN
+    nc1
+    nc2
+    GND
+    P3.3
+    N12
+    P5_EXT
+    GND_FIELD SIGNAL
+    P12
+    P3.3_ETH
+    P_EXT
+
+Reporting Net Names
+    ETH_MCO
+    ETH_RMII_CRS_DV
+    P3.3_ETH
+    ETH_MDC
+    ETH_RMII_TXEN
+    N1649843
+    GND_FIELD SIGNAL
+    ETH_RMII_TXD1
+    ETH_RMII_RXD0
+    LEDA2
+    ETH_RMII_REF_CLK
+    N1650079
+    ETH_RMII_TXD0
+    N165022923
+    N16499557
+    RX-
+    N1650715
+    LEDB2
+    TX-
+    RX+
+    P3.3
+    ETH_RMII_RXD1
+    ETH_MDIO
+    N16927914
+    PHY_RSTN
+    GND_EARTH
+    TX+
+    GND
+    P_EXT
+    N16779950
+    P5_EXT
+    RX_SERIAL
+    TXEN_SERIAL
+    TX_SERIAL
+    P12
+    TX_ISO
+    RS485+
+    TXEN_ISO
+    RX_485
+    RS485-
+    N16895152
+    N16780229
+    N16780252
+    N16780084
+    NC2
+    N16780223
+    N16780227
+    N16780186
+    N167800070
+    N16780114
+    NC1
+    N16779952
+    SD_DETECT
+    SD_CLK
+    SD_DAT0
+    N16950171
+    SD_DAT3
+    SD_P3ENN
+    SD_DAT1
+    SD_DAT2
+    SD_WP
+    SD_CMD
+    ADC_VARRAY
+    DAY
+    ADC_VBATT
+    ADC_ILC
+    DIP4
+    PWM_AP
+    N12
+    N16792165
+    BATT_ADC_DIV
+    PWM_CP
+    LED_SOC_Y
+    DIP3
+    ADC_ILC_SLOW
+    PWM_CN
+    N16792280
+    VBS
+    BUF_VARRAY
+    BUF_VBATT
+    N16893627
+    ARRAY
+    PWM_BN
+    N168934771
+    V_RTS
+    DIP0
+    DIP1
+    ADC_ILB_SLOW
+    ADC_ILB
+    LED_SOC_R
+    DIP5
+    DIP6
+    ADC_ILA
+    BATTERY
+    -------------------------------------------------------------------------------
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? BATTERY 
+                    0636_tsmppt_plus, 0636_misc  (13.70, 4.10) 
+             Alternate Name:  Battery_PS
+    -------------------------------------------------------------------------------
+
+    DIP7
+    DIP2
+    PWM_AN
+    ADC_THS
+    ADC_ILA_SLOW
+    ADC_IARRAY_16830381
+    -------------------------------------------------------------------------------
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? ADC_IARRAY 
+                    0636_tsmppt_plus, 0636_misc  (13.80, 2.40) 
+             Alternate Name:  ADC_IARRAY
+    -------------------------------------------------------------------------------
+
+    PWM_BP
+    ARRAY_ADC_DIV
+    LED_SOC_G
+    N16792050
+    N168934691
+    PS_VIN_C
+    PS_FET_DRAIN
+    PS_VCC
+    PS_IC_GATE
+    PS_RT
+    N16840484
+    PS_FET_GATE
+    PS_AFTERCAP
+    PS_CS
+    PS_FET_SOURCE
+    PS_VIN_BASE
+    N16795334
+    N16795336
+    N17359632
+    N16940240
+    N16939086
+    PS_FB
+    PS_VIN
+    N16795278
+    PS_UVLO
+    CAN_STB
+    CAN_8
+    N16983185
+    TX_CAN
+    N17078276
+    N16955110
+    TX_CAN_ISO
+    CANL
+    N17192385
+    CANH
+    N16982610
+    CASE
+    N16955180
+    PS_CAN_DISABLEN
+    N16982722
+    N16857089
+    RX_CAN
+    N17078727
+    N16982648
+    N16984001
+    CAN_7
+    CAN_1
+    P5_CAN
+    CAN_3
+    RX_CAN_ISO
+    N16990703
+    SPI_SCK
+    WIRELESS_EN
+    N16913552
+    N16913484
+    TDI
+    N16913633
+    N16913367
+    TMS
+    WIRELESS_RESETN
+    TCK
+    SPI_MISO
+    TDO
+    N16913457
+    WIRELESS_CSN
+    N16913675
+    N16913648
+    N16913720
+    SPI_MOSI
+    SEMAPHOREN
+    N16913536
+    SEMA_WAKEUPN
+    CS0_WAKEUPN
+    JTDO/TRACESWO
+    N1646501
+    FLASH_SIO1
+    JTDI
+    FLASH_SIO3
+    N1646825
+    DIP_7
+    ADC_VBS
+    ADC_IARRAY
+    N1646751
+    P3.3A
+    DIP_1
+    RESETN_ARM
+    DIP_6
+    DIP_2
+    TP4
+    TRACECLK
+    N1646399
+    ADC_IA
+    FLASH_SIO0
+    TRACED0
+    TRACED1
+    DIP_5
+    N1646525
+    N1646813
+    N16863223
+    JTMS-SWDIO
+    TRACED2
+    JTCK-SWCLK
+    ADC_RTS
+    FLASH_CSN
+    V_COINCELL
+    N1646373
+    DIP_4
+    TRACED3
+    N16863211
+    PB_CUSTOM
+    N1647595
+    DIP_0
+    FLASH_SIO2
+    ADC_P12
+    TP3
+    N1646387
+    TP2
+    DIP_3
+    N1646273
+    FLASH_SCK
+    EE_CSN
+    N16863214
+
+Checking Misleading Tap connection
+
+INFO(ORCAP-2207): Check Bus width mismatch
+
+Checking Physical Rules 
+
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: 0636_tsmppt_plus
+--------------------------------------------------
+
+INFO(ORCAP-2242): Checking Incorrect Pin Group Assignment
+
+Report for Invalid References
+
+Report for Duplicate References
+
+INFO(ORCAP-2209): Checking Visible Unconnected Power Pins
+
+--------------------------------------------------
+Checking Entire Design: TSPPT_CONTROL 
+--------------------------------------------------
+
+Checking Power Pin Visibility  
+
+Checking Normal Convert View Sync  
+INFO(ORCAP-36105): Checking Missing Pin Numbers  
+
+Checking Device with Zero pins  
+INFO(ORCAP-36101): Checking Missing PCB Footprint Property  
+#1 ERROR(ORCAP-36002): Property "PCB Footprint" missing from instance U96: 0636_tsmppt_plus, 0636_RS485 (14.20, 10.10).
+
+Checking Name Property for Hierarchical Instances  
+
+INFO(ORCAP-2211): Check High Speed Properties Syntax
+
+INFO(ORCAP-2212): Check Power Ground Mismatch
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U97,V-  V-  GND
+                    0636_tsmppt_plus, 0636_misc  (9.20, 5.00) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND4  GND4  GND
+                    0636_tsmppt_plus, 0636_Wireless  (5.50, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND5  GND5  GND
+                    0636_tsmppt_plus, 0636_Wireless  (5.60, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND6  GND6  GND
+                    0636_tsmppt_plus, 0636_Wireless  (5.70, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND7  GND7  GND
+                    0636_tsmppt_plus, 0636_Wireless  (5.80, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND8  GND8  GND
+                    0636_tsmppt_plus, 0636_Wireless  (5.90, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND9  GND9  GND
+                    0636_tsmppt_plus, 0636_Wireless  (6.00, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND10  GND10  GND
+                    0636_tsmppt_plus, 0636_Wireless  (6.10, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND11  GND11  GND
+                    0636_tsmppt_plus, 0636_Wireless  (6.20, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND12  GND12  GND
+                    0636_tsmppt_plus, 0636_Wireless  (6.30, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND13  GND13  GND
+                    0636_tsmppt_plus, 0636_Wireless  (6.40, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND14  GND14  GND
+                    0636_tsmppt_plus, 0636_Wireless  (6.50, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND15  GND15  GND
+                    0636_tsmppt_plus, 0636_Wireless  (6.60, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND16  GND16  GND
+                    0636_tsmppt_plus, 0636_Wireless  (6.70, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND17  GND17  GND
+                    0636_tsmppt_plus, 0636_Wireless  (6.80, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND18  GND18  GND
+                    0636_tsmppt_plus, 0636_Wireless  (6.90, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND19  GND19  GND
+                    0636_tsmppt_plus, 0636_Wireless  (7.00, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND20  GND20  GND
+                    0636_tsmppt_plus, 0636_Wireless  (7.10, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND21  GND21  GND
+                    0636_tsmppt_plus, 0636_Wireless  (7.20, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND22  GND22  GND
+                    0636_tsmppt_plus, 0636_Wireless  (7.30, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND23  GND23  GND
+                    0636_tsmppt_plus, 0636_Wireless  (7.40, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U23,GND24  GND24  GND
+                    0636_tsmppt_plus, 0636_Wireless  (7.50, 2.70) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U96,OUT  OUT  P5_EXT
+                    0636_tsmppt_plus, 0636_RS485  (15.50, 10.20) 
+QUESTION(ORCAP-1589): Net has two or more aliases - possible short? U97,V+  V+  P3.3
+                    0636_tsmppt_plus, 0636_misc  (9.20, 4.00) 
+
+Reporting Unused Refdes in multiple part packages
+Part	                       Quantity	                       Reference
+-----------------------------------------------------------------------------------------
+   OPAMP_QUAD	                       2	                       U52: E  D  
+   OPAMP_DUAL	                       2	                       U98: C  B  
+   OPAMP_DUAL	                       2	                       U19: C  A  
+   OPAMP_DUAL	                       2	                       U97: B  A  
